@@ -1,0 +1,23 @@
+body {
+    background: #F6F6FA;
+    padding: 40px 40px 40px 40px;
+    font-family: 'Montserrat', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        font-family: 'Rubik', sans-serif;
+}
+
+/* Wrapper */
+.wrapper {
+    background: #ffffff;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+/* Main content */
+.main-content {
+    padding-left: 88px;
+    padding-top: 80px;
+    padding-right: 40px;
+    padding-bottom: 80px;
+    box-sizing: border-box;
+}
